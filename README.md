@@ -8,4 +8,5 @@ https://www.kaggle.com/rodsaldanha/arketing-campaign?select=marketing_campaign.c
 
 
 [Solution Proposal]
+
 https://colab.research.google.com/drive/13d2n50bCCabHF8MxchZ_iUX4c2wsrMra#scrollTo=n3ghvcwb9Aoi
